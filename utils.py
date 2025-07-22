@@ -145,7 +145,7 @@ def get_chatllm(
         platform_type: Literal[tuple(PLATFORMS)],
         model: str = "qwen3:1.7b",
         base_url: str = "http://127.0.0.1:11434",
-        api_key: str = "sk-b84a908d9c6147c5ae89332722bdd0f4",
+        api_key: str = "...",
         temperature: float = 0.1
 ):
     # 如果平台类型是Ollama
