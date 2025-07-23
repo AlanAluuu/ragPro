@@ -33,7 +33,7 @@ Streamlit 用于构建 Web 应用界面，负责：
 
 ### 5. 向量数据库
 
-使用 langchain_chroma.Chroma 来管理每个知识库的向量表示，并完成文档检索：
+使用 langchain_chroma.Chroma 来管理每个知识库的向量表示，并完成文档检索
 
 ### 6. 检索策略（召回策略）
 
